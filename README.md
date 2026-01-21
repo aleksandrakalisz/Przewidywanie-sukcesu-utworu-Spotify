@@ -92,12 +92,12 @@ Aplikacja służy do szacowania sukcesu utworu muzycznego na platformie Spotify 
 - **Testowane wymagania:** F02 i F03  
 - **Warunki wstępne:** Uruchomienie aplikacji i poprawne załadowanie pliku `dane.xlsx`  
 - **Kroki:**  
-  1. Wprowadź w polu „Liczba miesięcznych słuchaczy Spotify (tyś)”: 10000  
-  2. „Liczba obserwujących wykonawcę Spotify”: 100000  
-  3. „Liczba subskrypcji YouTube”: 100000  
-  4. „Obserwujący Instagram (tyś)”: 100000  
-  5. „Liczba nowych obserwujących Instagram (14 dni)”: 1000  
-  6. „Polubienia TikTok (wszystkie filmy) (tyś)”: 100000  
+  1. Wprowadź w polu „Liczba miesięcznych słuchaczy Spotify”: 100000000 
+  2. „Liczba obserwujących Spotify”: 100000000
+  3. „Liczba subskrypcji YouTube”: 100000000 
+  4. „Obserwujący Instagram”: 100000000
+  5. „Liczba nowych obserwujących Instagram (14 dni)”: 100000000  
+  6. „Polubienia TikTok (wszystkie filmy)”: 100000000 
   7. Kliknij przycisk „Oblicz”  
 
 - **Oczekiwany rezultat:**  
